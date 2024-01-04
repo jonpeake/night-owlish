@@ -105,7 +105,7 @@
 	color: #5ca7e4;
 }  
 .ace_comment {
-	color: #a6baba;
+	color: #edcf87;
 	font-style: italic;
 }  
 .ace_variable {
